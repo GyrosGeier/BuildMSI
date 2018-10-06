@@ -1,0 +1,15 @@
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+BuildMSI.opensdf
+BuildMSI.sdf
+BuildMSI.sln
+buildmsi.dir
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Debug/
+ipch/
+Release/
+Win32/
